@@ -1,7 +1,4 @@
-# Nathan-Kim-Portfolio
-
-
-**Nathan Kim Personal Portfolio**
+# **Nathan Kim Personal Portfolio**
 
 Hello, my name is Nathan Kim, and I am a Statistics and Data Science Major at UCLA. I am a fourth year transfer student and am looking forward to earning my Bachelor Degree in Spring 2024. I am passionate in applying data analytics to sports and identifying data trends from player comparisons. I utilized statistical analysis and graphical models in R to support my analysis and discussed my findings in research papers found in the UCLA Bruin Sports Analytics Club [link](https://www.bruinsportsanalytics.com/blog). 
 
