@@ -23,7 +23,7 @@ Description:
 
 Code: 
 - R
-  _library(ggplot2)
+  _ library(ggplot2)
 
 # Winter Quarter Quarter Sports Analytics Project
 
@@ -34,7 +34,7 @@ Description:
 
 Code:
 - R
-  _t-tests()
+  _ t-tests()
 
 
   
