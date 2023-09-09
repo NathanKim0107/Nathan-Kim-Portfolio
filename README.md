@@ -22,8 +22,7 @@ Description:
 - Display graphical models in R as scatterplots
 
 Code: 
-- R
-  _ library(ggplot2)
+- R: library(ggplot2)
 
 # Winter Quarter Quarter Sports Analytics Project
 
@@ -33,8 +32,7 @@ Description:
 - Utilize t-tests in R
 
 Code:
-- R
-  _ t-tests()
+- R: t-tests()
 
 
   
