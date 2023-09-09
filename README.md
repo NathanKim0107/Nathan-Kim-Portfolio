@@ -21,7 +21,7 @@ Description:
 - Utilize Outfielder and Starting Pitchers' statistical values for player comparisons
 - Display graphical models in R as scatterplots
 
-# Code: 
+Code: 
 - R
   _library(ggplot2)
 
@@ -32,7 +32,7 @@ Description:
 - Discuss why the pair's partnership has not prospered in Tottenham
 - Utilize t-tests in R
 
-# Code:
+Code:
 - R
   _t-tests()
 
