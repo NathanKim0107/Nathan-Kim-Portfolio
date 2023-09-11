@@ -11,7 +11,7 @@ This repository is to display my skills and data science/data analytics projects
 - [Spring Quarter Sports Analytics Project](https://github.com/NathanKim0107/Spring-Quarter-Sports-Data-Analytics-Project)
 - [Winter Quarter Sports Analytics Project](https://github.com/NathanKim0107/Winter-Quarter-Sports-Analytics-Project)
 
-# [Spring Quarter Quarter Sports Analytics Project](https://github.com/NathanKim0107/Spring-Quarter-Sports-Data-Analytics-Project)
+# Spring Quarter Quarter Sports Analytics Project
 
 Description: 
 - Discuss Asian baseball athletes who have high potential to compete in the MLB
@@ -21,7 +21,10 @@ Description:
 Code: 
 - R: library(ggplot2)
 
-# [Winter Quarter Quarter Sports Analytics Project](https://github.com/NathanKim0107/Winter-Quarter-Sports-Analytics-Project)
+Article:
+[Article Link](https://www.bruinsportsanalytics.com/post/mlb-asian-sensations)
+
+# Winter Quarter Quarter Sports Analytics Project 
 
 Description:
 - Analyze Tottenham's Son Heung Min and Ivan Perisics' possession data
@@ -30,6 +33,9 @@ Description:
 
 Code:
 - R: t-tests()
+
+Article:
+[Article Link](https://www.bruinsportsanalytics.com/post/sonny)
 
 # Education
 
