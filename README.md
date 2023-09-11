@@ -50,3 +50,9 @@ Article:
   - Completed 58 Units
   - College of Science Dean's List (2x) Fall and Spring Semester    
   
+# Certificate Links
+
+- ![LinkedIn Learning Learning SQL Programming (Summer 2023)](file:///C:/Users/natha/Dropbox/My%20PC%20(DESKTOP-HNFK7DB)/Downloads/CertificateOfCompletion_Learning%20SQL%20Programming%20(1).pdf)
+- ![LinkedIn Learning SQL Essentials (Summer 2023)](file:///C:/Users/natha/Dropbox/My%20PC%20(DESKTOP-HNFK7DB)/Downloads/CertificateOfCompletion_SQL%20Essential%20Training%20(1).pdf)
+- ![LikeLion US: Web Development Program (Fall 2022-Spring 2023)](file:///C:/Users/natha/Dropbox/My%20PC%20(DESKTOP-HNFK7DB)/Downloads/UCLA_Nathan%20Kim%20(2).pdf)
+  
