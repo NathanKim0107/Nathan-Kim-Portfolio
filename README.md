@@ -31,5 +31,16 @@ Description:
 Code:
 - R: t-tests()
 
+# Education
 
+- University of California Los Angeles - Bachelor of Science in Statistics and Data Science, 2022-2024
+  - Completed 47 Units
+  - Dean's Honor List Fall 2022
+ 
+- Korea University - Exchange Program Study, Spring 2022 Semester
+  - Completed 13 Units
+ 
+- San Diego State University -  Bachelor of Science in Statistics with Data Science Emphasis, 2020-2021
+  - Completed 58 Units
+  - College of Science Dean's List (2x) Fall and Spring Semester    
   
