@@ -58,5 +58,5 @@ Article:
   
 # Contact:
 
-- LinkedIn Link: ![LinkedIn Link](https://www.linkedin.com/in/nathan-d-kim/)
+- LinkedIn Link: [@Nathan Kim](https://www.linkedin.com/in/nathan-d-kim/)
 - Gmail: nathan.d.kim7@gmail.com
