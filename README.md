@@ -56,3 +56,7 @@ Article:
 - ![LinkedIn Learning SQL Essentials (Summer 2023)](https://github.com/NathanKim0107/Nathan-Kim-Portfolio/blob/main/CertificateOfCompletion_SQL%20Essential%20Training%20(1).pdf)
 - ![LikeLion US: Web Development Program (Summer 2022-Spring 2023)](https://github.com/NathanKim0107/Nathan-Kim-Portfolio/blob/main/UCLA_Nathan%20Kim.pdf)
   
+# Contact:
+
+LinkedIn Link: ![LinkedIn Link](https://www.linkedin.com/in/nathan-d-kim/)
+Gmail: nathan.d.kim7@gmail.com
