@@ -55,7 +55,7 @@ Article:
 - ![LinkedIn Learning Learning SQL Programming (Summer 2023)](https://github.com/NathanKim0107/Nathan-Kim-Portfolio/blob/main/CertificateOfCompletion_Learning%20SQL%20Programming.pdf)
 - ![LinkedIn Learning SQL Essentials (Summer 2023)](https://github.com/NathanKim0107/Nathan-Kim-Portfolio/blob/main/CertificateOfCompletion_SQL%20Essential%20Training%20(1).pdf)
 - ![LikeLion US: Web Development Program (Summer 2022-Spring 2023)](https://github.com/NathanKim0107/Nathan-Kim-Portfolio/blob/main/UCLA_Nathan%20Kim.pdf)
-- ![Kaggle Introduction to Machine Learning Certificate](https://github.com/NathanKim0107/Nathan_Kim_Portfolio/blob/main/Into%20to%20Machine%20Learning%20Kaggle%20Certificate.png)
+- ![Kaggle Introduction to Machine Learning Certificate]()
   
 # Contact:
 
